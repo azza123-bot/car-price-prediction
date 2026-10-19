@@ -2,7 +2,6 @@
 
 How much is a used car really worth? I wanted to answer that with data instead of guesswork, so I built a model that estimates the price of a used car from its listing details, and a small web app where you can try it.
 
-![App screenshot](docs/screenshot.png)
 
 ## Why I built this
 
